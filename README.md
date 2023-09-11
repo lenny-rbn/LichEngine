@@ -1,9 +1,10 @@
 <html>
 <link href="style.css" rel="stylesheet">
-
 <h1 align="center"> Lich Engine Project</h1>
-
-https://youtu.be/pDCPkfVftnc
+ <p align="center">
+     <img src="https://github.com/lenny-rbn/LichEngine/assets/121859898/76b64517-8fe1-4d05-adca-c38c0a1bb585" style="width:250px;"/> <br>
+     https://youtu.be/pDCPkfVftnc
+ </p>
 
 <h2> Introduction : </h2>
 The Lich Engine is game engine project couple with a engine editor. This project has been made in four months.The engine is conceive to be use on Window and use OpenGL 4.5 has graphics library. The main goal of this project was to create an engine for the creation of horror games. To fulfill this goal, we concentrate on the renderer feature to give lot of tools to create immersive environement. The groups member are :
