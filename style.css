@@ -1,0 +1,99 @@
+html
+{   
+    background: fixed;
+    background-color: black;
+}
+
+h1
+{
+    text-align: center;
+    font-weight: 600;
+    font-size : 50px;
+}
+
+h2
+{
+    font-weight: 700;
+}
+
+.name
+{   padding-top: 25px;
+    height: 50px;
+}
+.name ul
+{    
+    display: flex;
+    list-style-position: inside;
+    list-style-type: circle;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.name li
+{
+    font-size: 15px;
+    width: 20%;   
+   
+}
+
+
+.Part
+{
+    display: flex;
+}
+
+.intro 
+{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.description
+{
+    width: 50%;
+    text-align:justify;
+    height: 100%;
+   
+}
+.imageProject
+{
+    width: 50%;
+    padding-left: 50px;
+    margin: auto;
+}
+
+.Chapter
+{
+    margin-top: 45px;
+}
+
+.cinematique
+{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.cinematique .imageProject .img1
+{
+    height: 40%;
+}
+.imageEnv
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 50px;
+   
+  
+    width: 100%;
+}
+
+.imageEnv img
+{ 
+    border: 4px solid;
+    border-color: rgb(145, 197, 145);
+    width: 90%;
+   
+
+}
