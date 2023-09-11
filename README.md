@@ -17,7 +17,6 @@ The Lich Engine is game engine project couple with a engine editor. This project
     <li> Bryan Bachelet
 </ul>
 </b>
-To launch the project on Visual Studio move every file of the "Builds" folder in the LichEngine/x64/Debug folder.
 </div>
 <hr>
 <h2> Engine Features : </h2>
